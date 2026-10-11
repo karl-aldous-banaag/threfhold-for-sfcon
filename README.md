@@ -15,8 +15,7 @@ ThreFhold was made by creating a machine learning model that estimates the propo
 
 ## Get Started
 > [!IMPORTANT]
-> Key information users need to know to achieve their goal.
-[uv](https://docs.astral.sh/uv/) is required to run the notebook. See the installation guide [here](https://docs.astral.sh/uv/getting-started/installation/).
+> [uv](https://docs.astral.sh/uv/) is required to run the notebook. See the installation guide [here](https://docs.astral.sh/uv/getting-started/installation/).
 
 ### Sync Environment
 Run the command below to create the virtual environment needed for running the Jupyter Notebook file.
